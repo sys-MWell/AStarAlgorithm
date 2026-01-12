@@ -1,0 +1,14 @@
+c:\Projects\AStarAlgorithm\bin\Debug\net8.0-windows\AStarAlgorithm.exe
+c:\Projects\AStarAlgorithm\bin\Debug\net8.0-windows\AStarAlgorithm.deps.json
+c:\Projects\AStarAlgorithm\bin\Debug\net8.0-windows\AStarAlgorithm.runtimeconfig.json
+c:\Projects\AStarAlgorithm\bin\Debug\net8.0-windows\AStarAlgorithm.dll
+c:\Projects\AStarAlgorithm\bin\Debug\net8.0-windows\AStarAlgorithm.pdb
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.AssemblyInfoInputs.cache
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.AssemblyInfo.cs
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.csproj.CoreCompileInputs.cache
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.dll
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\refint\AStarAlgorithm.dll
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.pdb
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.genruntimeconfig.cache
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\ref\AStarAlgorithm.dll
