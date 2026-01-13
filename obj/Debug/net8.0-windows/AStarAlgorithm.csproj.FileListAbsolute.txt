@@ -12,3 +12,4 @@ c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\refint\AStarAlgorithm.dll
 c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.pdb
 c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.genruntimeconfig.cache
 c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\ref\AStarAlgorithm.dll
+c:\Projects\AStarAlgorithm\obj\Debug\net8.0-windows\AStarAlgorithm.sourcelink.json
