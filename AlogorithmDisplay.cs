@@ -1,12 +1,19 @@
-namespace AStarAlgorithm;
-
-public partial class AlogorithmDisplay : Form
+namespace AStarAlgorithm
 {
-    public AlogorithmDisplay()
+    /// <summary>
+    /// Main application window hosting the A* visualization.
+    /// </summary>
+    public partial class AlogorithmDisplay : Form
     {
-        InitializeComponent();
-        this.BackColor = System.Drawing.Color.Black;
-        this.DoubleBuffered = true;
-        AlgorithmLogic algorithm = new AlgorithmLogic(this);
+        /// <summary>
+        /// Initializes the form and starts the A* algorithm visualization.
+        /// </summary>
+        public AlogorithmDisplay()
+        {
+            InitializeComponent();
+            this.BackColor = System.Drawing.Color.Black;
+            this.DoubleBuffered = true;
+            AlgorithmLogic algorithm = new AlgorithmLogic(this);
+        }
     }
 }
